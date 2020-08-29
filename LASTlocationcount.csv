@@ -1,0 +1,2000 @@
+epoch, 1
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999788, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 4637
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25238
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 83
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 11042
+epoch, 2
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998838, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 4888
+count [L.N(Gp)+L.N(Gn) = 5] : , 1
+count [L.N(Gp)+L.N(Gn) = 3] : , 26998
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 63
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 9050
+epoch, 3
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.99898, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 5484
+count [L.N(Gp)+L.N(Gn) = 5] : , 1
+count [L.N(Gp)+L.N(Gn) = 3] : , 27262
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 49
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 8204
+epoch, 4
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998147, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 6034
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 27097
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 41
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 7828
+epoch, 5
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.997203, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 6514
+count [L.N(Gp)+L.N(Gn) = 5] : , 2
+count [L.N(Gp)+L.N(Gn) = 3] : , 26921
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 41
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 7522
+epoch, 6
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.997069, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 6816
+count [L.N(Gp)+L.N(Gn) = 5] : , 3
+count [L.N(Gp)+L.N(Gn) = 3] : , 26844
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 36
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 7301
+epoch, 7
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.997831, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 7109
+count [L.N(Gp)+L.N(Gn) = 5] : , 2
+count [L.N(Gp)+L.N(Gn) = 3] : , 26711
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 30
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 7148
+epoch, 8
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998652, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 7530
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 26424
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 28
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 7018
+epoch, 9
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999536, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 7751
+count [L.N(Gp)+L.N(Gn) = 5] : , 1
+count [L.N(Gp)+L.N(Gn) = 3] : , 26357
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 29
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 6862
+epoch, 10
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998571, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 7937
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 26298
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 13
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 6752
+epoch, 11
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998543, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 8116
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 26194
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 6
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 6684
+epoch, 12
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998505, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 8361
+count [L.N(Gp)+L.N(Gn) = 5] : , 1
+count [L.N(Gp)+L.N(Gn) = 3] : , 26022
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 19
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 6597
+epoch, 13
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.99846, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 8465
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25994
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 32
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 6509
+epoch, 14
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998442, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 8582
+count [L.N(Gp)+L.N(Gn) = 5] : , 1
+count [L.N(Gp)+L.N(Gn) = 3] : , 25955
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 23
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 6439
+epoch, 15
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998941, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 8754
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25867
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 17
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 6362
+epoch, 16
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 8794
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25896
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 6310
+epoch, 17
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 8895
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25820
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 8
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 6277
+epoch, 18
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999443, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 9015
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25760
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 6
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 6219
+epoch, 19
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999431, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 9042
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25778
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 5
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 6175
+epoch, 20
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998849, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 9017
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25847
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 10
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 6126
+epoch, 21
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998828, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 9192
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25727
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 5
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 6076
+epoch, 22
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 9277
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25683
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 21
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 6019
+epoch, 23
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998805, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 9177
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25814
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 19
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5990
+epoch, 24
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998774, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 9318
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25771
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 6
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5905
+epoch, 25
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998756, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 9409
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25723
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 6
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5862
+epoch, 26
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 9408
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25750
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 7
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5835
+epoch, 27
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998732, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 9584
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25606
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5810
+epoch, 28
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999356, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 9674
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25572
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 10
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5744
+epoch, 29
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 9717
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25572
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 14
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5697
+epoch, 30
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 9820
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25489
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 5
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5686
+epoch, 31
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 9929
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25434
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5637
+epoch, 32
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 9680
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25693
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 21
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5606
+epoch, 33
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.99865, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 9821
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25555
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 7
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5617
+epoch, 34
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10010
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25392
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5598
+epoch, 35
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999307, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10057
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25371
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5572
+epoch, 36
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999302, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 9903
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25565
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 5
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5527
+epoch, 37
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 9988
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25517
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 5
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5490
+epoch, 38
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 9988
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25562
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 5
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5445
+epoch, 39
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999274, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10182
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25388
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 10
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5420
+epoch, 40
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999271, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10170
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25421
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5409
+epoch, 41
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999265, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10257
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25346
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 12
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5385
+epoch, 42
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999261, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10181
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25428
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5391
+epoch, 43
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999255, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10138
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25476
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 14
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5372
+epoch, 44
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10242
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25410
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5348
+epoch, 45
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10202
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25482
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5316
+epoch, 46
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10129
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25547
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5324
+epoch, 47
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10282
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25433
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5285
+epoch, 48
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999222, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10318
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25397
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 10
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5275
+epoch, 49
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999218, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10474
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25263
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5263
+epoch, 50
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.996838, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10565
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25177
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5258
+epoch, 51
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10593
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25150
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5257
+epoch, 52
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998374, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10552
+count [L.N(Gp)+L.N(Gn) = 5] : , 1
+count [L.N(Gp)+L.N(Gn) = 3] : , 25209
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 1
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5237
+epoch, 53
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998371, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10577
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25198
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5225
+epoch, 54
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10635
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25154
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5211
+epoch, 55
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999165, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10568
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25254
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 3
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5175
+epoch, 56
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.99916, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10757
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25084
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5159
+epoch, 57
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999139, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10700
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25178
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5122
+epoch, 58
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10627
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25277
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 4
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5092
+epoch, 59
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10654
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25261
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5085
+epoch, 60
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10653
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25287
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5060
+epoch, 61
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10750
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25201
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5049
+epoch, 62
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10742
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25241
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5017
+epoch, 63
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999101, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10708
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25281
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5011
+epoch, 64
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10778
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25213
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5009
+epoch, 65
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998141, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10930
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25104
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4966
+epoch, 66
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999064, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10935
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25115
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4950
+epoch, 67
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999053, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10965
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25090
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4945
+epoch, 68
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999041, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10984
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25098
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4918
+epoch, 69
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11106
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24988
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 1
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4905
+epoch, 70
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11016
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25084
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4900
+epoch, 71
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11075
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25050
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4875
+epoch, 72
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999013, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11006
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25129
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4865
+epoch, 73
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11028
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25105
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4867
+epoch, 74
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11070
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25056
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4874
+epoch, 75
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11059
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25093
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4848
+epoch, 76
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11114
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25070
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4816
+epoch, 77
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998954, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11223
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24966
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4811
+epoch, 78
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11196
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25025
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4779
+epoch, 79
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.996791, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11218
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24987
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4795
+epoch, 80
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11120
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25098
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4782
+epoch, 81
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11203
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25038
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4759
+epoch, 82
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998907, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11342
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24915
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4743
+epoch, 83
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11303
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24948
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4749
+epoch, 84
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11265
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24990
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4745
+epoch, 85
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11265
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24973
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4762
+epoch, 86
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11313
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24937
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4750
+epoch, 87
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11329
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24933
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4738
+epoch, 88
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11342
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24910
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4748
+epoch, 89
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11347
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24928
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4725
+epoch, 90
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11443
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24835
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4722
+epoch, 91
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11353
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24934
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4713
+epoch, 92
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11268
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25035
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4697
+epoch, 93
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11271
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25045
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4684
+epoch, 94
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11357
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24961
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4682
+epoch, 95
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998819, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11396
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24927
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4677
+epoch, 96
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11481
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24854
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4665
+epoch, 97
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11454
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24875
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4671
+epoch, 98
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11440
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24908
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4652
+epoch, 99
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11627
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24726
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4647
+epoch, 100
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11578
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24784
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4638
+epoch, 101
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.99635, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11509
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24833
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 11
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4647
+epoch, 102
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998762, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11317
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25051
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 14
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4618
+epoch, 103
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.997543, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11406
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24975
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 3
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4616
+epoch, 104
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.997534, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11516
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24892
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 2
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4590
+epoch, 105
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998742, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11424
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24989
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 9
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4578
+epoch, 106
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998733, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11334
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25093
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 4
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4569
+epoch, 107
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11459
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24977
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4564
+epoch, 108
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11321
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25135
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 8
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4536
+epoch, 109
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998731, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11389
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25059
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 9
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4543
+epoch, 110
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11492
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24969
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 7
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4532
+epoch, 111
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998716, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11553
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24904
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 4
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4539
+epoch, 112
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11495
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24974
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 2
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4529
+epoch, 113
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.997413, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11631
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24839
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 8
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4522
+epoch, 114
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11709
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24771
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 3
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4517
+epoch, 115
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998701, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11684
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24794
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 1
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4521
+epoch, 116
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11645
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24828
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 4
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4523
+epoch, 117
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11726
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24719
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 5
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4550
+epoch, 118
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11661
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24802
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 4
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4533
+epoch, 119
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11633
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24823
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 6
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4538
+epoch, 120
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998667, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11624
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24861
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 4
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4511
+epoch, 121
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11678
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24818
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4504
+epoch, 122
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998649, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11759
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24742
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4499
+epoch, 123
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998643, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11689
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24794
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 5
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4512
+epoch, 124
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11561
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24907
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 8
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4524
+epoch, 125
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11746
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24749
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4505
+epoch, 1
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998937, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 4990
+count [L.N(Gp)+L.N(Gn) = 5] : , 2
+count [L.N(Gp)+L.N(Gn) = 3] : , 27048
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 118
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 8842
+epoch, 2
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.996833, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 5976
+count [L.N(Gp)+L.N(Gn) = 5] : , 5
+count [L.N(Gp)+L.N(Gn) = 3] : , 27758
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 119
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 7142
+epoch, 3
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.997552, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 7288
+count [L.N(Gp)+L.N(Gn) = 5] : , 1
+count [L.N(Gp)+L.N(Gn) = 3] : , 27231
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 89
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 6391
+epoch, 4
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998638, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 8023
+count [L.N(Gp)+L.N(Gn) = 5] : , 1
+count [L.N(Gp)+L.N(Gn) = 3] : , 26983
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 76
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5917
+epoch, 5
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.997509, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 8654
+count [L.N(Gp)+L.N(Gn) = 5] : , 1
+count [L.N(Gp)+L.N(Gn) = 3] : , 26645
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 104
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5596
+epoch, 6
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.997872, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 9158
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 26427
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 74
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5341
+epoch, 7
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.996622, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 9489
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 26281
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 59
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5171
+epoch, 8
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.997644, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 9825
+count [L.N(Gp)+L.N(Gn) = 5] : , 1
+count [L.N(Gp)+L.N(Gn) = 3] : , 26078
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 69
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 5027
+epoch, 9
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.997546, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10037
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25988
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 62
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4913
+epoch, 10
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.996829, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10419
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25698
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 50
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4833
+epoch, 11
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.994152, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10519
+count [L.N(Gp)+L.N(Gn) = 5] : , 2
+count [L.N(Gp)+L.N(Gn) = 3] : , 25660
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 65
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4754
+epoch, 12
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.99864, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10854
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25460
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 57
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4629
+epoch, 13
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.997222, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10600
+count [L.N(Gp)+L.N(Gn) = 5] : , 1
+count [L.N(Gp)+L.N(Gn) = 3] : , 25759
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 70
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4570
+epoch, 14
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998573, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 10849
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25601
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 64
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4486
+epoch, 15
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.99635, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11276
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25237
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 48
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4439
+epoch, 16
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998505, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11173
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25395
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 55
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4377
+epoch, 17
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.995444, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11265
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25330
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 59
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4346
+epoch, 18
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998437, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11393
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25285
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 44
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4278
+epoch, 19
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.99761, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11708
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25031
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 37
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4224
+epoch, 20
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999192, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11625
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25188
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 29
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4158
+epoch, 21
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.996689, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11989
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24889
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 38
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4084
+epoch, 22
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999153, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11903
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25007
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 54
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4036
+epoch, 23
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.991394, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11826
+count [L.N(Gp)+L.N(Gn) = 5] : , 2
+count [L.N(Gp)+L.N(Gn) = 3] : , 25113
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 49
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 4010
+epoch, 24
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.996503, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 11932
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 25094
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 39
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3935
+epoch, 25
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.994624, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 12110
+count [L.N(Gp)+L.N(Gn) = 5] : , 2
+count [L.N(Gp)+L.N(Gn) = 3] : , 24974
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 26
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3888
+epoch, 26
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.995409, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 12141
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24969
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 48
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3842
+epoch, 27
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999075, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 12321
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24842
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 36
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3801
+epoch, 28
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.995274, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 12287
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24931
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 40
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3742
+epoch, 29
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.999031, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 12426
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24842
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 28
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3704
+epoch, 30
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998014, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 12454
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24845
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 29
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3672
+epoch, 31
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.995976, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 12491
+count [L.N(Gp)+L.N(Gn) = 5] : , 2
+count [L.N(Gp)+L.N(Gn) = 3] : , 24818
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 33
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3656
+epoch, 32
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998979, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 12447
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24872
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 42
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3639
+epoch, 33
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.996891, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 12667
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24661
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 31
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3641
+epoch, 34
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998945, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 12600
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24767
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 19
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3614
+epoch, 35
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.995736, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 12484
+count [L.N(Gp)+L.N(Gn) = 5] : , 1
+count [L.N(Gp)+L.N(Gn) = 3] : , 24909
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 44
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3562
+epoch, 36
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.997856, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 12668
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24736
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 34
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3562
+epoch, 37
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.996718, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 12654
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24822
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 11
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3513
+epoch, 38
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.996641, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 12650
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24858
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 26
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3466
+epoch, 39
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.996625, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 12630
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24882
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 29
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3459
+epoch, 40
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998834, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 12832
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24751
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 11
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3406
+epoch, 41
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.996462, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 12873
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24712
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 26
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3389
+epoch, 42
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.996403, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 12990
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24597
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 21
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3392
+epoch, 43
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.997582, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 12868
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24726
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 21
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3385
+epoch, 44
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.99877, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13099
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24544
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 9
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3348
+epoch, 45
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13133
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24528
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 14
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3325
+epoch, 46
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.996269, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13074
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24606
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 13
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3307
+epoch, 47
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.9975, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13363
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24310
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 13
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3314
+epoch, 48
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.994911, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13179
+count [L.N(Gp)+L.N(Gn) = 5] : , 1
+count [L.N(Gp)+L.N(Gn) = 3] : , 24491
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 35
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3294
+epoch, 49
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.997449, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13257
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24480
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 11
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3252
+epoch, 50
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.996099, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13303
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24437
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 13
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3247
+epoch, 51
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.996026, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13272
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24490
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 14
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3224
+epoch, 52
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.99466, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13172
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24581
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 28
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3219
+epoch, 53
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998656, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13412
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24365
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 18
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3205
+epoch, 54
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998654, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13257
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24513
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 5
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3225
+epoch, 55
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998636, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13426
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24346
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 23
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3205
+epoch, 56
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13352
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24458
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 3
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3187
+epoch, 57
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13586
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24237
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 7
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3170
+epoch, 58
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.99435, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13541
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24279
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 14
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3166
+epoch, 59
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.994398, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13617
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24219
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 1
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3163
+epoch, 60
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.995726, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13690
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24138
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 12
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3160
+epoch, 61
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13860
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23990
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3150
+epoch, 62
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998549, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13731
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24122
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 14
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3133
+epoch, 63
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13726
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24168
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 7
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3099
+epoch, 64
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.997054, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13854
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24056
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3090
+epoch, 65
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13832
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24084
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 9
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3075
+epoch, 66
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13741
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24179
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3080
+epoch, 67
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.994012, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13634
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24296
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 15
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3055
+epoch, 68
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.994003, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13629
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24292
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 16
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3063
+epoch, 69
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13933
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23994
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 5
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3068
+epoch, 70
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998459, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13991
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23944
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3065
+epoch, 71
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998459, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13737
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24184
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 18
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3061
+epoch, 72
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998445, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13773
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24152
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 7
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3068
+epoch, 73
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.99842, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13909
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24028
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 2
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3061
+epoch, 74
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998425, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13939
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23982
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 3
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3076
+epoch, 75
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13721
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24239
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3040
+epoch, 76
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13806
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24163
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3031
+epoch, 77
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14126
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23861
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3013
+epoch, 78
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14099
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23893
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3008
+epoch, 79
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14073
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23913
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 3014
+epoch, 80
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14050
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23963
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2987
+epoch, 81
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998308, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14155
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23872
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2973
+epoch, 82
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14108
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23899
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2993
+epoch, 83
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998285, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14174
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23830
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 6
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2990
+epoch, 84
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998267, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14142
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23857
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 7
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2994
+epoch, 85
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14294
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23707
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2999
+epoch, 86
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14174
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23849
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2977
+epoch, 87
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14125
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23910
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2965
+epoch, 88
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14105
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23933
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2962
+epoch, 89
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14173
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23875
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2952
+epoch, 90
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14115
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23941
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2944
+epoch, 91
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.996422, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14129
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23917
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2954
+epoch, 92
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14173
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23903
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2924
+epoch, 93
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14130
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23941
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2929
+epoch, 94
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14196
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23868
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2936
+epoch, 95
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14246
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23844
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2910
+epoch, 96
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998138, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14324
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23738
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2938
+epoch, 97
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14407
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23643
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2950
+epoch, 98
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998117, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14342
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23735
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2923
+epoch, 99
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14511
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23557
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2932
+epoch, 100
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14593
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23495
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2912
+epoch, 101
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.992495, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14038
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23982
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 49
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2931
+epoch, 102
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.992424, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13715
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24315
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 55
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2915
+epoch, 103
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.994242, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14112
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23946
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 35
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2907
+epoch, 104
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998073, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13959
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24114
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 37
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2890
+epoch, 105
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.996146, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13829
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24223
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 52
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2896
+epoch, 106
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.994231, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13943
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24108
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 48
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2901
+epoch, 107
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.994208, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14240
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23828
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 37
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2895
+epoch, 108
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.984556, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14012
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24035
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 54
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2899
+epoch, 109
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.994129, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13803
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24251
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 60
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2886
+epoch, 110
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.998062, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14222
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23868
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 39
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2871
+epoch, 111
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14135
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23936
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 29
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2900
+epoch, 112
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.992278, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13955
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24066
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 64
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2915
+epoch, 113
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.996071, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14029
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24053
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 29
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2889
+epoch, 114
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.996094, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14022
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24031
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 55
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2892
+epoch, 115
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.996094, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14167
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23872
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 57
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2904
+epoch, 116
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.992079, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14060
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24015
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 44
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2881
+epoch, 117
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.995927, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14129
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23973
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 25
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2873
+epoch, 118
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.995968, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14232
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23861
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 38
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2869
+epoch, 119
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.997992, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14191
+count [L.N(Gp)+L.N(Gn) = 5] : , 1
+count [L.N(Gp)+L.N(Gn) = 3] : , 23895
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 35
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2878
+epoch, 120
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.985801, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13803
+count [L.N(Gp)+L.N(Gn) = 5] : , 1
+count [L.N(Gp)+L.N(Gn) = 3] : , 24272
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 58
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2866
+epoch, 121
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.987928, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14161
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23936
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 35
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2868
+epoch, 122
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 1, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14311
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23822
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 15
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2852
+epoch, 123
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.987805, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14104
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 24001
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 39
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2856
+epoch, 124
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.993827, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 13847
+count [L.N(Gp)+L.N(Gn) = 5] : , 1
+count [L.N(Gp)+L.N(Gn) = 3] : , 24249
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 57
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2846
+epoch, 125
+P(areanumbersum = 4 | Gp,Gn>=Gth2/10) = , 0.993763, 1
+count [L.N(Gp)+L.N(Gn) = 2] : , 14299
+count [L.N(Gp)+L.N(Gn) = 5] : , 0
+count [L.N(Gp)+L.N(Gn) = 3] : , 23869
+count [L.N(Gp)+L.N(Gn) = 6] : , 0
+count [L.N(Gp)+L.N(Gn) = 4 middle] : , 9
+count [L.N(Gp)+L.N(Gn) = 4 high low] : , 2823
